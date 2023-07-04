@@ -10,9 +10,7 @@ my name is Alex, nice to meet you!
 
 Welcome to my github, here is where I save all of my projects:
 
-🏠 on https://github.com/alexCCTcollege/Housing-Ireland 
-
-🏠 I did some sentiment analysis (TextBlob) and time serie forcasting (XGBoost) on Ireland housing, I also got a chance to explore a bit with interactive dashboards using plotly.
+🏠 https://github.com/alexCCTcollege/Housing-Ireland : sentiment analysis (TextBlob) and time serie forcasting (XGBoost) dashboard with Plotly on Ireland housing
 
 
 🎶 this was my final papaer at NCI during my Diploma in Data analytics https://github.com/alexCCTcollege/Music-classification
