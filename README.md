@@ -13,7 +13,7 @@ Welcome to my github, here is where I save all of my projects:
 🏠 I did some sentiment analysis (TextBlob) and time serie forcasting (XGBoost) on Ireland housing, I also got a chance to explore a bit with interactive dashboards using plotly.
 
 
-🎶 this was my final papaer at NCI during my Diploma in Data analytics https://github.com/alexCCTcollege/Music-classification
+🎶 this was my final papaer at NCI during my Diploma in Data analytics https://github.com/alexCCTcollege/Music-classification/n
 🎶 I used multiple classification models (SVM, KNN, Random Forest, Naive Bayes) for classifying genre of a song.
 
 
