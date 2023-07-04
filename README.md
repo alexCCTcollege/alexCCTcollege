@@ -14,7 +14,7 @@ Welcome to my github, here is where I save all of my projects:
 
 
 🎶 this was my final papaer at NCI during my Diploma in Data analytics https://github.com/alexCCTcollege/Music-classification
-\n🎶 I used multiple classification models (SVM, KNN, Random Forest, Naive Bayes) for classifying genre of a song.
+/n🎶 I used multiple classification models (SVM, KNN, Random Forest, Naive Bayes) for classifying genre of a song.
 
 
 👔 here https://github.com/alexCCTcollege/Churn-prediction-classification
