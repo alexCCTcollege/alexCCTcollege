@@ -12,7 +12,6 @@ Welcome to my github, here is where I save all of my projects:
 
 🏠 https://github.com/alexCCTcollege/Housing-Ireland : sentiment analysis (TextBlob) and time serie forcasting (XGBoost) dashboard with Plotly on Ireland housing
 
-🎶 final papaer at NCI during my Diploma in Data analytics https://github.com/alexCCTcollege/Music-classification  multiple classification models (SVM, KNN, Random Forest, Naive Bayes) for classifying genre of a song.
 
 👔 here https://github.com/alexCCTcollege/Churn-prediction-classification : using models to predicted if an employee is about to leave a company or not aka Churn prediction
 
