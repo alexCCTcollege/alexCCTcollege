@@ -10,10 +10,8 @@ my name is Alex, nice to meet you!
 
 Welcome to my github, here is where I save all of my projects:
 
-🏠 https://github.com/alexCCTcollege/Housing-Ireland : sentiment analysis (TextBlob) and time serie forcasting (XGBoost) dashboard with Plotly on Ireland housing
+Tableau: https://github.com/alexCCTcollege/Tableau
 
+Power BI: https://github.com/alexCCTcollege/Power-BI
 
-👔 here https://github.com/alexCCTcollege/Churn-prediction-classification : using models to predicted if an employee is about to leave a company or not aka Churn prediction
-
-
-📫 Linkedin:  https://www.linkedin.com/in/alex-santini-745546201/
+Machine Learning: https://github.com/alexCCTcollege/Churn-prediction-classification
