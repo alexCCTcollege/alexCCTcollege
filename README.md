@@ -2,9 +2,9 @@
 
 my name is Alex, nice to meet you!                      
 
-🌱 I'm currently pursuing a MSc in Data analytics in Dublin
+🌱 I'm currently pursuing a MSc in Data analytics in Dublin while working as Data analyst
 
-💻 I'm looking for a nice IT company where I can deploy models and learn new technologies!
+💻 I'm looking for a nice IT company where I can deploy models, do visualizations and learn new technologies!
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
