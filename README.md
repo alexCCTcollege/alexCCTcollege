@@ -8,7 +8,7 @@ my name is Alex, nice to meet you!
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-Welcome to my github, here is where I save all of my projects:
+here is where I save all of my projects:
 
 Tableau: https://github.com/alexCCTcollege/Tableau
 
