@@ -15,3 +15,5 @@ Tableau: https://github.com/alexCCTcollege/Tableau
 Power BI: https://github.com/alexCCTcollege/Power-BI
 
 Machine Learning: https://github.com/alexCCTcollege/Churn-prediction-classification
+
+Pyspark: https://github.com/alexCCTcollege/Pyspark/blob/main/Pyspark%20Perceptron.ipynb
